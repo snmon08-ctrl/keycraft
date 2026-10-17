@@ -1,0 +1,6 @@
+{
+  "name": "KeyCraft — Precision Typing Practice",
+  "description": "A clean, distraction-free typing trainer with real-time speed/accuracy metrics, versatile practice modes, live velocity charts, and weak key diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
